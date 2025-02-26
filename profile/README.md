@@ -1,8 +1,8 @@
 
-# Nexus 👾
-***Transformando Inovação em Realidade***
+# Chronos ⚙️
+***Chronos - Otimizando tempo, maximizando resultados digitais.***
 
-A Nexus é uma startup inovadora focada no desenvolvimento de soluções tecnológicas que transformam ideias em realidade.  Focamos exclusivamente no desenvolvimento de soluções Web e PWAs (Progressive Web Apps), oferecendo experiências modernas e eficientes para os usuários.
+A Chronos é uma startup inovadora focada no desenvolvimento de soluções tecnológicas que transformam ideias em realidade.  Focamos exclusivamente no desenvolvimento de soluções Web e PWAs (Progressive Web Apps), oferecendo experiências modernas e eficientes para os usuários.
 
 
 
